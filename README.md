@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Pedro Montes de Oca Mejia</h2>
+### Hi there 👋<h2> I'm Pedro Montes de Oca Mejía</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Ingeniero en Sistemas Computaciones - Actualmente trabajo como Soporte Técnico 1&2 Nivel.
+- 🤔 &nbsp; Actualmente trabajo Soporte Técnico 1&2 Nivel en la Industria Farmaceutica.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Ingeniero en Sistemas Computacionales - Tecnologico de Estudios Superiores de Santiago Tanguistenco.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Aprender desarrollo Web - Frontend.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Ver peliculas y hacer ejercicio como actividades Secundarias.
 
 
 
